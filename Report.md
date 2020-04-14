@@ -114,7 +114,7 @@ The code consist of :
 
 - `hyperparameters.py` : Defines all the hyperparameters in constant variables. (**Important**: Don't forget to restart the Jupyter Notebook Kernel to take into account any change done to these parameters)
 
-- `TennisProject.ipynb` : This Jupyter notebooks allows to instanciate and train both agent. More in details it allows to :
+- `Tennis.ipynb` : This Jupyter notebooks allows to instanciate and train both agent. More in details it allows to :
   - Prepare the Unity environment and Import the necessary packages 
   - Check the Unity environment
   - Define a helper function to instanciate and train a MADDPG agent
